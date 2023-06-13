@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I am currently working on improving my technical skills.
-👀 I am looking to colloborate on developing software, apps and websites.
-🤝 I am looking for help with developing a music maker app.
-🌱 I am currently learning technologies, theories, stacks and other S.E related stuff.
-💭Ask me about my work.
+🔭 I am currently working on improving my technical skills.<br>
+👀 I am looking to colloborate on developing software, apps and websites.<br>
+🤝 I am looking for help with developing a music maker app.<br>
+🌱 I am currently learning technologies, theories, stacks and other S.E related stuff.<br>
+💭Ask me about my work.<br>
 ⚡Fun Fact - I am addicted to music.
 
 
