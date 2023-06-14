@@ -3,8 +3,8 @@
 👀 I am looking to colloborate on developing software, apps and websites.<br>
 🤝 I am looking for help with developing a music maker app.<br>
 🌱 I am currently learning technologies, theories, stacks and other S.E related stuff.<br>
-💭Ask me about my work.<br>
-⚡Fun Fact - I am addicted to music.
+💭 Ask me about my work.<br>
+⚡ Fun Fact - I am addicted to music.
 
 
 ## 🌐 Socials:
