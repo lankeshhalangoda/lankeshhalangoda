@@ -1,6 +1,6 @@
 ## About Me:
 
-I am a dedicated and adaptable software engineer with a strong commitment to delivering high-quality solutions. My capabilities span various aspects of software development, including project management, UI/UX design, and full-stack development. I excel in problem-solving and thrive in dynamic team environments. With a keen eye for detail and a passion for continuous improvement, I am always eager to tackle new challenges and learn new skills. Let's collaborate and create impactful software solutions together!
+I am a dedicated and adaptable software engineering professional with a strong commitment to delivering high-quality solutions. My capabilities span various aspects of software development, including project management, UI/UX design, and full-stack development. I excel in problem-solving and thrive in dynamic team environments. With a keen eye for detail and a passion for continuous improvement, I am always eager to tackle new challenges and learn new skills. Let's collaborate and create impactful software solutions together!
 
 ## Portfolio:
 
