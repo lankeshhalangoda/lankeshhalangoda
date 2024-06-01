@@ -1,24 +1,44 @@
-# 💫 About Me:
-🔭 I am currently working on improving my technical skills.<br>
-👀 I am looking to colloborate on developing software, apps and websites.<br>
-🤝 I am looking for help with developing a music maker app.<br>
-🌱 I am currently learning technologies, theories, stacks and other S.E related stuff.<br>
-💭 Ask me about my work.<br>
-⚡ Fun Fact - I am addicted to music.
+## About Me:
+
+I am a dedicated and adaptable software engineer with a strong commitment to delivering high-quality solutions. My capabilities span various aspects of software development, including project management, UI/UX design, and full-stack development. I excel in problem-solving and thrive in dynamic team environments. With a keen eye for detail and a passion for continuous improvement, I am always eager to tackle new challenges and learn new skills. Let's collaborate and create impactful software solutions together!
+
+## Portfolio
+
+Explore my portfolio [here](https://your-portfolio-link.com) to get to know more about me.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reallankelk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lankelk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lankeshhalangoda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Lankelk) 
+## Socials:
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![LinkedIn](https://img.icons8.com/?size=30&id=13930&format=png&color=000000)](https://linkedin.com/in/lankeshhalangoda) [![GitHub](https://img.icons8.com/?size=30&id=46565&format=png&color=000000)](https://github.com/lankeshhalangoda) [![Stack Overflow](https://img.icons8.com/?size=30&id=13955&format=png&color=000000)](https://stackoverflow.com/users/your-user-id) [![Twitter](https://img.icons8.com/?size=30&id=phOKFKYpe00C&format=png&color=656b66)](https://twitter.com/your-username) [![Facebook](https://img.icons8.com/?size=30&id=13912&format=png&color=000000)](https://facebook.com/your-username)
+ 
+## Tools and Technologies:
+
+### Frameworks & Libraries
+![React](https://img.icons8.com/?size=30&id=123603&format=png&color=000000) ![Angular](https://img.icons8.com/?size=30&id=71257&format=png&color=000000) ![Laravel](https://img.icons8.com/?size=30&id=hUvxmdu7Rloj&format=png&color=000000) ![Vue](https://img.icons8.com/?size=30&id=rY6agKizO9eb&format=png&color=000000) ![Nuxt](https://img.icons8.com/?size=30&id=nvrsJYs7j9Vb&format=png&color=000000) ![Sass](https://img.icons8.com/?size=30&id=WNoJgbzDr3i2&format=png&color=000000) ![Express](https://img.icons8.com/?size=30&id=hsPbhkOH4FMe&format=png&color=000000) ![Node.js](https://img.icons8.com/?size=30&id=EzPCiQUqWWEa&format=png&color=000000) ![Bootstrap](https://img.icons8.com/?size=30&id=4PiNHtUJVbLs&format=png&color=000000) ![jQuery](https://img.icons8.com/?size=30&id=yWv6GQVz58uJ&format=png&color=000000)
+
+### Programming Languages
+![Java](https://img.icons8.com/?size=30&id=13679&format=png&color=000000) ![C#](https://img.icons8.com/?size=30&id=45490&format=png&color=000000) ![JavaScript](https://img.icons8.com/?size=30&id=108784&format=png&color=000000) ![PHP](https://img.icons8.com/?size=30&id=fAMVO_fuoOuC&format=png&color=000000) ![.Net Core](https://img.icons8.com/?size=30&id=1BC75jFEBED6&format=png&color=000000) ![C++](https://img.icons8.com/?size=30&id=40669&format=png&color=000000) ![TypeScript](https://img.icons8.com/?size=30&id=uJM6fQYqDaZK&format=png&color=000000) ![Python](https://img.icons8.com/?size=30&id=13441&format=png&color=000000) ![HTML](https://img.icons8.com/?size=30&id=20909&format=png&color=000000) ![CSS](https://img.icons8.com/?size=30&id=21278&format=png&color=000000)
+
+### Database
+![MySQL](https://img.icons8.com/?size=30&id=9nLaR5KFGjN0&format=png&color=000000) ![MSSQL](https://img.icons8.com/?size=30&id=laYYF3dV0Iew&format=png&color=000000) ![MongoDB](https://img.icons8.com/?size=30&id=bosfpvRzNOG8&format=png&color=000000) ![Firebase](https://img.icons8.com/?size=30&id=62452&format=png&color=000000)
+
+### Version Control & Project Management
+![Git](https://img.icons8.com/?size=30&id=20906&format=png&color=000000) ![GitLab](https://img.icons8.com/?size=30&id=34886&format=png&color=000000) ![Jira](https://img.icons8.com/?size=25&id=x2g9nPCwQPOn&format=png&color=000000) ![Trello](https://img.icons8.com/?size=25&id=EREcg1COGLlB&format=png&color=000000) ![Bitbucket](https://img.icons8.com/?size=25&id=oROcPah5ues6&format=png&color=000000)
+
+### Cloud Platforms
+![AWS](https://img.icons8.com/?size=30&id=33039&format=png&color=000000) ![Azure](https://img.icons8.com/?size=30&id=81727&format=png&color=000000) ![Google Cloud](https://img.icons8.com/?size=30&id=20774&format=png&color=000000) ![Docker](https://img.icons8.com/?size=30&id=LdUzF8b5sz2R&format=png&color=000000) ![Kubernetes](https://img.icons8.com/?size=30&id=cvzmaEA4kC0o&format=png&color=000000)
+
+### Content Management Systems
+![WordPress](https://img.icons8.com/?size=30&id=gjVkeGTRPkpG&format=png&color=000000) ![Kentico](https://img.icons8.com/?size=30&id=13664&format=png&color=000000)
+
+### Other Tools
+![Figma](https://img.icons8.com/?size=30&id=zfHRZ6i1Wg0U&format=png&color=000000) ![Adobe XD](https://img.icons8.com/?size=30&id=4VVL78edhbW9&format=png&color=000000) ![Adbobe Illustrator](https://img.icons8.com/?size=30&id=13631&format=png&color=000000)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lankeshhalangoda&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lankeshhalangoda&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lankeshhalangoda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lankeshhalangoda&limit=5&theme=dark&combine_all_yearly_contributions=true)
