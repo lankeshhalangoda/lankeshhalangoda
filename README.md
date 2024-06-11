@@ -4,7 +4,7 @@ I am a dedicated and adaptable software engineering professional with a strong c
 
 ## Portfolio:
 
-Explore my portfolio [here](https://your-portfolio-link.com) to get to know more about me.
+Explore my portfolio [here](https://lankesh.vercel.app) to get to know more about me.
 
 
 ## Socials:
